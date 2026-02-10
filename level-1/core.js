@@ -6,7 +6,7 @@ const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
  * maximum is `sides`.
  * @param {number} sides The amount of sides for the die, defaults to `6`.
  */
-export const rollDie = (sides = 6) => Math.floor(Math.random() * sides) + 1;
+const rollDie = (sides = 6) => Math.floor(Math.random() * sides) + 1;
 
 /** grows a server if a d100 rolls over 80. */
 async function growServer(ns, server) {
