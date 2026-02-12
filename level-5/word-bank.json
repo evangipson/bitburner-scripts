@@ -1,0 +1,314 @@
+{
+    "A": {
+        "adjectives": [
+            "Agile",
+            "Ambitious",
+            "Artic"
+        ],
+        "animals": [
+            "Albatross",
+            "Antelope",
+            "Ape"
+        ]
+    },
+    "B": {
+        "adjectives": [
+            "Bold",
+            "Brisk",
+            "Brazen"
+        ],
+        "animals": [
+            "Badger",
+            "Beetle",
+            "Bobcat"
+        ]
+    },
+    "C": {
+        "adjectives": [
+            "Clever",
+            "Calm",
+            "Cosmic"
+        ],
+        "animals": [
+            "Cougar",
+            "Crane",
+            "Chameleon"
+        ]
+    },
+    "D": {
+        "adjectives": [
+            "Dashing",
+            "Daring",
+            "Digital"
+        ],
+        "animals": [
+            "Dolphin",
+            "Dingo",
+            "Deer"
+        ]
+    },
+    "E": {
+        "adjectives": [
+            "Eager",
+            "Elite",
+            "Electric"
+        ],
+        "animals": [
+            "Eagle",
+            "Echidna",
+            "Eland"
+        ]
+    },
+    "F": {
+        "adjectives": [
+            "Fast",
+            "Fierce",
+            "Formal"
+        ],
+        "animals": [
+            "Falcon",
+            "Ferret",
+            "Fox"
+        ]
+    },
+    "G": {
+        "adjectives": [
+            "Gentle",
+            "Global",
+            "Golden"
+        ],
+        "animals": [
+            "Gazelle",
+            "Gecko",
+            "Goose"
+        ]
+    },
+    "H": {
+        "adjectives": [
+            "Hardy",
+            "Honest",
+            "Hyper"
+        ],
+        "animals": [
+            "Hawk",
+            "Heron",
+            "Hyena"
+        ]
+    },
+    "I": {
+        "adjectives": [
+            "Intrepid",
+            "Ionic",
+            "Iron"
+        ],
+        "animals": [
+            "Ibis",
+            "Iguana",
+            "Impala"
+        ]
+    },
+    "J": {
+        "adjectives": [
+            "Jovial",
+            "Jagged",
+            "Just"
+        ],
+        "animals": [
+            "Jackal",
+            "Jaguar",
+            "Jay"
+        ]
+    },
+    "K": {
+        "adjectives": [
+            "Keen",
+            "Kinetic",
+            "Kind"
+        ],
+        "animals": [
+            "Kangaroo",
+            "Kestrel",
+            "Koala"
+        ]
+    },
+    "L": {
+        "adjectives": [
+            "Lively",
+            "Lucid",
+            "Lucky"
+        ],
+        "animals": [
+            "Lemur",
+            "Leopard",
+            "Lynx"
+        ]
+    },
+    "M": {
+        "adjectives": [
+            "Modern",
+            "Mighty",
+            "Mellow"
+        ],
+        "animals": [
+            "Magpie",
+            "Mantis",
+            "Mongoose"
+        ]
+    },
+    "N": {
+        "adjectives": [
+            "Noble",
+            "Nimble",
+            "Neon"
+        ],
+        "animals": [
+            "Narwhal",
+            "Newt",
+            "Nightingale"
+        ]
+    },
+    "O": {
+        "adjectives": [
+            "Open",
+            "Optimal",
+            "Orbital"
+        ],
+        "animals": [
+            "Ocelot",
+            "Okapi",
+            "Otter"
+        ]
+    },
+    "P": {
+        "adjectives": [
+            "Proud",
+            "Plucky",
+            "Prime"
+        ],
+        "animals": [
+            "Panda",
+            "Panther",
+            "Python"
+        ]
+    },
+    "Q": {
+        "adjectives": [
+            "Quick",
+            "Quiet",
+            "Quaint"
+        ],
+        "animals": [
+            "Quail",
+            "Quagga",
+            "Quokka"
+        ]
+    },
+    "R": {
+        "adjectives": [
+            "Rapid",
+            "Robust",
+            "Royal"
+        ],
+        "animals": [
+            "Rabbit",
+            "Raven",
+            "Rhino"
+        ]
+    },
+    "S": {
+        "adjectives": [
+            "Sharp",
+            "Steady",
+            "Swift"
+        ],
+        "animals": [
+            "Salmon",
+            "Skylark",
+            "Stag"
+        ]
+    },
+    "T": {
+        "adjectives": [
+            "Tough",
+            "Turbo",
+            "Tidal"
+        ],
+        "animals": [
+            "Tiger",
+            "Toucan",
+            "Turtle"
+        ]
+    },
+    "U": {
+        "adjectives": [
+            "Urgent",
+            "Unique",
+            "Urban"
+        ],
+        "animals": [
+            "Urial",
+            "Unicorn",
+            "Uguisu"
+        ]
+    },
+    "V": {
+        "adjectives": [
+            "Vibrant",
+            "Vivid",
+            "Vast"
+        ],
+        "animals": [
+            "Viper",
+            "Vole",
+            "Vulture"
+        ]
+    },
+    "W": {
+        "adjectives": [
+            "Wise",
+            "Wild",
+            "Wired"
+        ],
+        "animals": [
+            "Walrus",
+            "Wasp",
+            "Wolf"
+        ]
+    },
+    "X": {
+        "adjectives": [
+            "Xenon",
+            "Xeric",
+            "Xyloid"
+        ],
+        "animals": [
+            "Xeme",
+            "Xerus",
+            "Xiphos"
+        ]
+    },
+    "Y": {
+        "adjectives": [
+            "Young",
+            "Yielding",
+            "Yummy"
+        ],
+        "animals": [
+            "Yak",
+            "Yeti",
+            "Yoran"
+        ]
+    },
+    "Z": {
+        "adjectives": [
+            "Zesty",
+            "Zonal",
+            "Zenith"
+        ],
+        "animals": [
+            "Zebra",
+            "Zebu",
+            "Zorilla"
+        ]
+    }
+}
